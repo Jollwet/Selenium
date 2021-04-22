@@ -1,2 +1,2 @@
 # Selenium
-Educational tasks for studying selenium
+Educational tasks for studying selenium.
